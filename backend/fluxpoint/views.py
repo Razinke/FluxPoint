@@ -28,7 +28,7 @@ class GenericTemplateView(TemplateView):
 
 
 class HomeView(TemplateView):
-    template_name = 'index.html'
+    template_name = 'index-6.html'
 
 
 class Home1View(TemplateView):
